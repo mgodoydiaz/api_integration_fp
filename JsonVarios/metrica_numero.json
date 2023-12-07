@@ -1,0 +1,66 @@
+{
+    "Nombre": "Metrica Numero",
+    "Autor": "Miguel",
+    "Datos": [
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "187202973",
+            "Fecha": "01/12/2023",
+            "Venta Diaria": "150000"
+        },
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "187202973",
+            "Fecha": "02/12/2023",
+            "Venta Diaria": "250000"
+        },
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "187202973",
+            "Fecha": "03/12/2023",
+            "Venta Diaria": "1350000"
+        },
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "187202973",
+            "Fecha": "04/12/2023",
+            "Venta Diaria": "500"
+        },
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "187202973",
+            "Fecha": "05/12/2023",
+            "Venta Diaria": "100000"
+        },
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "123456789",
+            "Fecha": "01/12/2023",
+            "Venta Diaria": "250000"
+        },
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "123456789",
+            "Fecha": "02/12/2023",
+            "Venta Diaria": "450000"
+        },
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "123456789",
+            "Fecha": "03/12/2023",
+            "Venta Diaria": "350000"
+        },
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "123456789",
+            "Fecha": "04/12/2023",
+            "Venta Diaria": "1000"
+        },
+        {
+            "Periodo": "Mayo 2022",
+            "Trabajador": "123456789",
+            "Fecha": "05/12/2023",
+            "Venta Diaria": "100000"
+        }
+    ]
+}
